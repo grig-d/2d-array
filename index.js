@@ -1,5 +1,5 @@
 const xCells = 50;
-const yCells = 20;
+const yCells = 30;
 
 const array2d = [];
 
